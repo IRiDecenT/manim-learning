@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/袁睿/Desktop/manim-learning/project2/media/videos/project2/720p30/partial_movie_files/FittingObjects/274514146_1537863852_223132457.mp4'
+file 'file:C:/Users/袁睿/Desktop/manim-learning/project2/media/videos/project2/720p30/partial_movie_files/FittingObjects/2789044632_3574803178_4289375356.mp4'
+file 'file:C:/Users/袁睿/Desktop/manim-learning/project2/media/videos/project2/720p30/partial_movie_files/FittingObjects/2789044632_1901625118_219681169.mp4'
+file 'file:C:/Users/袁睿/Desktop/manim-learning/project2/media/videos/project2/720p30/partial_movie_files/FittingObjects/2789044632_3541985231_219681169.mp4'
